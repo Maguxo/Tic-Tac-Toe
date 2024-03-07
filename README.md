@@ -1,32 +1,14 @@
-<div id="hola" align="center"> 
-<img src="https://cdn.dribbble.com/users/920717/screenshots/5875096/5c448d8569db6529743473.gif" width="500" height="250">
-</div>
-<!DOCTYPE html>
-<html lang="en">
-<!DOCTYPE html>
-<html lang="en">
-<!DOCTYPE html>
-<html lang="en">
-
-<body>
-<h1>Feature</h1>    
-<h6>
-    1) El programa se enfoca en un juego donde su objetivo es llenar con O y x tres veces, de forma diagonal, vertical o horizontal.  
-</h6>
-
-<h6>
-    2) Al registrar  letra repetida tres veces horizontal, vertical, latera y diagonal; cambiara de color las trescasillas.
-  
-</h6>
-</body>
-</html>
 <div align="center">
 
  <h1>⭕⭕⭕ Tic- tac- toe ❌❌❌</h1>
+
+ <img src="https://cdn.dribbble.com/users/920717/screenshots/5875096/5c448d8569db6529743473.gif" width="500" height="250">
  
 <p>Popular game for 2 participants, which consists of filling 3 boxes with the same character << X or O >>, making the column highlight the green color indicating the winner.</p>
-  <img src="https://github.com/Magucho/Snake_Game/assets/98346054/d8dada50-13d8-467c-979d-1aeedf394860"  width=49%/>
-   <img src="https://github.com/Magucho/Snake_Game/assets/98346054/2028ad1d-ed64-4323-a9b1-39720c75e22b"  width=49%/>
+  <img src="https://github.com/Maguxo/Tic-Tac-Toe/assets/98346054/3c4d62dd-203e-4d5b-9534-277743b84381"  width=49%/>
+   <img src="https://github.com/Maguxo/Tic-Tac-Toe/assets/98346054/5bead8ed-e706-4d43-9679-312185e88266"  width=49%/>
+
+
 
 
 ---
@@ -34,7 +16,10 @@
  <h1>📽️Small Demonstration📽️</h1>
 
  
-https://github.com/Magucho/Snake_Game/assets/98346054/bd7213b6-301a-448a-aee4-e8ba6d0cafc7
+
+https://github.com/Maguxo/Tic-Tac-Toe/assets/98346054/658ada80-f50a-4b55-9501-e308a8b52e20
+
+
 
 </div>
 
@@ -43,7 +28,7 @@ https://github.com/Magucho/Snake_Game/assets/98346054/bd7213b6-301a-448a-aee4-e8
 
 <div align="center">
  <h1>🎬Explanation of the project🎬</h1>
-<a href="https://fb.watch/q3VjQC1Oq1/">
+<a href="https://www.facebook.com/magucho.gomez/videos/1167492287958745">
   <img src="https://img.freepik.com/fotos-premium/logotipo-facebook-neon-espacio-texto-graficos-fondo-azul_494516-176.jpg?w=360" alt="Facebook Badge" width=100/>
     <br>
    </a>
@@ -57,8 +42,8 @@ https://github.com/Magucho/Snake_Game/assets/98346054/bd7213b6-301a-448a-aee4-e8
   <div align="center">
    <img src="https://img.shields.io/badge/Java-Challenge%23-orange"> 
   </div>
-   
-   <img src="https://github.com/Magucho/Snake_Game/assets/98346054/f240f3e5-23fc-4e25-95c2-23de9c3f114a" />
+  
+   <img src="https://github.com/Maguxo/Tic-Tac-Toe/assets/98346054/4d1dcf45-466a-4aca-9e0c-4213803f5270" />
 </div>
 
 </div>
